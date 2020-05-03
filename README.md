@@ -1,3 +1,3 @@
 # Landscaper
 
-##Landscaper is a simple browser game running on vanilla Javascript
+Landscaper is a simple browser game running on vanilla Javascript
