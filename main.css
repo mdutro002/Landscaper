@@ -1,0 +1,57 @@
+/* SEMANTIC TAGS */
+
+body {
+  background-color: green;
+  height: 100%;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: white;
+  font-size: 40px;
+}
+
+p {
+  font-family: sans-serif;
+  color: white;
+  margin-left: 5px;
+}
+
+button {
+  margin: 3px;
+  padding: 3px;
+  border-radius: 8px;
+}
+footer {
+  margin: auto;
+  position: absolute;
+  bottom: 0px;
+}
+
+/* CLASSES */
+.flexContainer {
+  border-radius: 5px;
+  display: flex;
+  height: 150px;
+  width: 900px;
+  flex-direction: column;
+  align-content: center;
+  border: 1px solid black;
+  background-color: #28DE31;
+}
+.intDiv {
+  flex-direction: row;
+  align-content: center;
+  height:20%; 
+  width:100%;
+}
+#creditURL {
+  color: white;
+  text-decoration: underline;
+}
+#mssgDiv {
+  height: 90%;
+  width: 100%;
+  background-color: rgba(46, 49, 49, .25);
+}
+
